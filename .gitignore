@@ -1,0 +1,4 @@
+/input
+*csv
+.ipynb_checkpoints/
+*gz
